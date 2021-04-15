@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: aplicacion.Aplicacion
+Class-Path: /home/angel/Escritorio/70915467G/biblioteca.jar
